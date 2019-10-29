@@ -4,8 +4,8 @@ sudo apt-get install -qq g++-5
 sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-5 90
 
 
-CMAKE_VERSION=3.14
-CMAKE_VERSION_DIR=v3.14
+CMAKE_VERSION=3.4.3
+CMAKE_VERSION_DIR=v3.4
 
 CMAKE_OS=Linux-x86_64
 CMAKE_TAR=cmake-$CMAKE_VERSION-$CMAKE_OS.tar.gz
