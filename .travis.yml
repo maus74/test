@@ -52,6 +52,9 @@ deploy:
   skip_cleanup: true
   overwrite:    true
 
+api_key:
+  secure:   " 2aca83a8b63e16da30cb5abb9b6ab723799483fb"
+
   on:
     tags:     true
 
